@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Steaks",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Rôti de boeuf",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Pot-au-feu",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Bourguignon",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Haché de boeuf",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Côtes de boeuf",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Tournedos",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Carpaccio",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Tartare",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Osso bucco",
+    "tags": "viande boeuf bovin veau rouge"
+  },
+  {
+    "name": "Blanc de poulet",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Cuisses de poulet",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Ailes de poulet",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Poulet entier",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Dinde entière",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Filet de dinde",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Escalopes de dinde",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Magret de canard",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Cuisse de canard",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Poulet rôti",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Aiguillettes de poulet",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Aiguillettes de dinde",
+    "tags": "volaille dinde poulet canard blanche"
+  },
+  {
+    "name": "Lasagnes",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Pizza",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Quiche",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Hachis parmentier",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Paëlla",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Couscous",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Chili con carne",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Bolognaise",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Curry",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Boulettes de viande",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Nuggets de poulet",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Fish and chips",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Tacos",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Burritos",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Sushi",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Poulet rôti",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Ratatouille",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Taboulé",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Salades préparées",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Sandwichs",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Wrap",
+    "tags": "plats préparés"
+  },
+  {
+    "name": "Ketchup",
+    "tags": "condiment"
+  },
+  {
+    "name": "Mayonnaise",
+    "tags": "condiment"
+  },
+  {
+    "name": "Moutarde",
+    "tags": "condiment"
+  },
+  {
+    "name": "Sauce barbecue",
+    "tags": "condiment"
+  },
+  {
+    "name": "Sauce tomate",
+    "tags": "condiment"
+  },
+  {
+    "name": "Vinaigrette",
+    "tags": "condiment"
+  },
+  {
+    "name": "Sauce soja",
+    "tags": "condiment"
+  },
+  {
+    "name": "Pesto",
+    "tags": "condiment"
+  },
+  {
+    "name": "Harissa",
+    "tags": "condiment"
+  },
+  {
+    "name": "Houmous",
+    "tags": "condiment"
+  },
+  {
+    "name": "Tapenade",
+    "tags": "condiment"
+  },
+  {
+    "name": "Guacamole",
+    "tags": "condiment"
+  },
+  {
+    "name": "Chutney",
+    "tags": "condiment"
+  },
+  {
+    "name": "Confiture",
+    "tags": "condiment"
+  },
+  {
+    "name": "Miel",
+    "tags": "condiment"
+  },
+  {
+    "name": "Sirop d'érable",
+    "tags": "condiment"
+  },
+  {
+    "name": "Cornichons",
+    "tags": "condiment"
+  },
+  {
+    "name": "Oignons frits",
+    "tags": "condiment"
+  },
+  {
+    "name": "Olives",
+    "tags": "condiment"
+  },
+  {
+    "name": "Câpres",
+    "tags": "condiment"
+  },
+  {
+    "name": "Lait",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Beurre",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Crème fraîche",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Crème liquide",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Yaourt nature",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Yaourt aromatisé",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Fromage blanc",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Fromage frais",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Fromage râpé",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Fromage à pâte molle",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Fromage à pâte dure",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Fromage de chèvre",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Fromage de brebis",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Fromage fondu",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Yaourt à boire",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Mascarpone",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Ricotta",
+    "tags": "lait crême creme fromage laitier"
+  },
+  {
+    "name": "Jambon blanc",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Jambon cru",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Saucisson",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Saucisse",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Chorizo",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Pâté",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Rillettes",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Terrine",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Saucisson sec",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Boudin noir",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Boudin blanc",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Rosette",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Coppa",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Pancetta",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Lardons",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Bacon",
+    "tags": "charcuterie jambon porc"
+  },
+  {
+    "name": "Pommes",
+    "tags": "fruit"
+  },
+  {
+    "name": "Oranges",
+    "tags": "fruit"
+  },
+  {
+    "name": "Bananes",
+    "tags": "fruit"
+  },
+  {
+    "name": "Fraises",
+    "tags": "fruit"
+  },
+  {
+    "name": "Poires",
+    "tags": "fruit"
+  },
+  {
+    "name": "Raisins",
+    "tags": "fruit"
+  },
+  {
+    "name": "Mangues",
+    "tags": "fruit"
+  },
+  {
+    "name": "Ananas",
+    "tags": "fruit"
+  },
+  {
+    "name": "Abricots",
+    "tags": "fruit"
+  },
+  {
+    "name": "Pêches",
+    "tags": "fruit"
+  },
+  {
+    "name": "Nectarines",
+    "tags": "fruit"
+  },
+  {
+    "name": "Cerises",
+    "tags": "fruit"
+  },
+  {
+    "name": "Melons",
+    "tags": "fruit"
+  },
+  {
+    "name": "Pastèques",
+    "tags": "fruit"
+  },
+  {
+    "name": "Kiwi",
+    "tags": "fruit"
+  },
+  {
+    "name": "Citrons",
+    "tags": "fruit"
+  },
+  {
+    "name": "Pamplemousses",
+    "tags": "fruit"
+  },
+  {
+    "name": "Grenades",
+    "tags": "fruit"
+  },
+  {
+    "name": "Prunes",
+    "tags": "fruit"
+  },
+  {
+    "name": "Mirabelles",
+    "tags": "fruit"
+  },
+  {
+    "name": "Carottes",
+    "tags": "légume"
+  },
+  {
+    "name": "Pommes de terre",
+    "tags": "légume"
+  },
+  {
+    "name": "Tomates",
+    "tags": "légume"
+  },
+  {
+    "name": "Courgettes",
+    "tags": "légume"
+  },
+  {
+    "name": "Poivrons",
+    "tags": "légume"
+  },
+  {
+    "name": "Aubergines",
+    "tags": "légume"
+  },
+  {
+    "name": "Oignons",
+    "tags": "légume"
+  },
+  {
+    "name": "Ail",
+    "tags": "légume"
+  },
+  {
+    "name": "Choux",
+    "tags": "légume"
+  },
+  {
+    "name": "Brocolis",
+    "tags": "légume"
+  },
+  {
+    "name": "Épinards",
+    "tags": "légume"
+  },
+  {
+    "name": "Salades",
+    "tags": "légume"
+  },
+  {
+    "name": "Concombres",
+    "tags": "légume"
+  },
+  {
+    "name": "Radis",
+    "tags": "légume"
+  },
+  {
+    "name": "Haricots verts",
+    "tags": "légume"
+  },
+  {
+    "name": "Petits pois",
+    "tags": "légume"
+  },
+  {
+    "name": "Champignons",
+    "tags": "légume"
+  },
+  {
+    "name": "Fenouil",
+    "tags": "légume"
+  },
+  {
+    "name": "Céleris",
+    "tags": "légume"
+  },
+  {
+    "name": "Navets",
+    "tags": "légume"
+  },
+  {
+    "name": "Saumon",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Thon",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Cabillaud",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Truite",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Sole",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Raie",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Bar",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Merlu",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Saint-Jacques",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Crevettes",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Moules",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Huitres",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Calamars",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Poulpe",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Langoustines",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Homard",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Crabe",
+    "tags": "poisson mer crustacés"
+  },
+  {
+    "name": "Oeufs",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Tofu",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Poisson frais",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Salades préparées",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Herbes fraîches",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Levure de boulanger",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Gingembre",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Pâte à pizza",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Pâte feuilletée",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Jus de fruits",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Gaspacho",
+    "tags": "divers pate jus soupe reste"
+  },
+  {
+    "name": "Soupe de légumes",
+    "tags": "divers pate jus soupe reste"
+  }
+]

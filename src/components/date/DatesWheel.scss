@@ -1,0 +1,9 @@
+.date-buttons-ctr {
+    background: var(--dark-bg);
+}
+
+@media (prefers-color-scheme: light) {
+    .date-buttons-ctr {
+        background: var(--light-bg);
+    }
+}

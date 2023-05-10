@@ -1,0 +1,28 @@
+PODS:
+  - Capacitor (5.0.2):
+    - CapacitorCordova
+  - CapacitorCommunityBarcodeScanner (4.0.1):
+    - Capacitor
+  - CapacitorCordova (5.0.2)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/.pnpm/@capacitor+ios@5.0.2_@capacitor+core@5.0.2/node_modules/@capacitor/ios`)"
+  - "CapacitorCommunityBarcodeScanner (from `../../node_modules/.pnpm/@capacitor-community+barcode-scanner@4.0.1_@capacitor+core@5.0.2/node_modules/@capacitor-community/barcode-scanner`)"
+  - "CapacitorCordova (from `../../node_modules/.pnpm/@capacitor+ios@5.0.2_@capacitor+core@5.0.2/node_modules/@capacitor/ios`)"
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/.pnpm/@capacitor+ios@5.0.2_@capacitor+core@5.0.2/node_modules/@capacitor/ios"
+  CapacitorCommunityBarcodeScanner:
+    :path: "../../node_modules/.pnpm/@capacitor-community+barcode-scanner@4.0.1_@capacitor+core@5.0.2/node_modules/@capacitor-community/barcode-scanner"
+  CapacitorCordova:
+    :path: "../../node_modules/.pnpm/@capacitor+ios@5.0.2_@capacitor+core@5.0.2/node_modules/@capacitor/ios"
+
+SPEC CHECKSUMS:
+  Capacitor: d703b5dde0a7d82df29aa4323845709df29c96a8
+  CapacitorCommunityBarcodeScanner: 7feb206489c8555a8ca0c74c57ddf49ead774eb8
+  CapacitorCordova: 9745ab233fe489f3315154b7969deea3ce1b4e85
+
+PODFILE CHECKSUM: 06bcea8651b3a019ec8021a35b4c61d87fe7a6f6
+
+COCOAPODS: 1.11.3
