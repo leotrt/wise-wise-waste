@@ -14,5 +14,7 @@
 ```shell
 pnpm install
 pnpm build
-npx
+npx cap copy
+npx cap sync
+npx cap open android # or ios
 ```
